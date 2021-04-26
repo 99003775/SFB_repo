@@ -1,0 +1,7 @@
+Memory analyzer v.1.1 
+
+Memory usage: 
+
+IRAM:            146928 of  196607 (74.73%)
+CAL_ROM:           8683 of  131071 (6.62%)
+ROM:             704242 of 1703935 (41.33%)
